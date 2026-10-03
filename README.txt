@@ -1,0 +1,1 @@
+Run: pip install -r requirements.txt ; python app.py ; open http://127.0.0.1:5000. Includes Party and Interior planner UI. Estimates are rule-based, not live AI prices.
